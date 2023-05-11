@@ -1,0 +1,2 @@
+print("こんにちはPython!")
+print("masao")
